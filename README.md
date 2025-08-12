@@ -1,4 +1,3 @@
-Here’s a complete **README.md** for your project:
 
 ---
 
@@ -131,5 +130,3 @@ Students Report
 This project is licensed under the **MIT License** — feel free to modify and distribute.
 
 ---
-
-If you want, I can also make this README **with screenshots** and **GitHub-style formatting** so it looks more professional. That would make it perfect for uploading to GitHub. Would you like me to do that?
